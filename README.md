@@ -20,4 +20,4 @@ and performance-critical workloads.
 
 ## Stack
 
-`RUST` `C++` `AXUM` `TOKIO` `POSTSGESQL` `REDIS` `SOLANA`
+**`RUST` `C++` `AXUM` `TOKIO` `SQLX` `POSTSGESQL` `REDIS` `SOLANA`**
