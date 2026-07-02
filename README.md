@@ -15,7 +15,7 @@ and performance-critical workloads.
 ## Current Focus
 
 - Building backend services and REST APIs with the **Rust** ecosystem
-- Developing **[Kamp](https://github.com/kamp-lang/kamp)**,
+- Developing **[Pumple](https://github.com/pumple-language/pumple)**,
   an experimental programming language exploring language design and compiler architecture
 
 ## Stack
