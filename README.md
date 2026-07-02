@@ -1,11 +1,11 @@
 # Hi there, I'm warpcmdr
 
-Software engineer specializing in **Java** and **C++**, focused on building reliable,
+Software engineer specializing in **Rust** and **C++**, focused on building reliable,
 high-performance backend systems and developer tooling.
 
 ## About
 
-I work primarily in the **Java ecosystem**, developing backend services, enterprise applications,
+I work primarily in the **Rust ecosystem**, developing backend services, enterprise applications,
 and developer tooling with an emphasis on clean architecture and long-term maintainability.
 
 My experience includes working with the PDF specification and building document processing systems,
@@ -14,12 +14,11 @@ and performance-critical workloads.
 
 ## Current Focus
 
-- Building backend services and REST APIs with the **Spring** ecosystem
+- Building backend services and REST APIs with the **Rust** ecosystem
 - Developing **[Kamp](https://github.com/kamp-lang/kamp)**,
   an experimental programming language exploring language design and compiler architecture
 
 ## Stack
 
-- **Backend:** `Spring Boot`, `Spring MVC`, `Spring Security`, `Spring Cloud`
-- **Data:** `Spring Data`, `Hibernate`, `PostgreSQL`, `Redis`
-- **Messaging:** `Kafka`, `RabbitMQ`
+- **Backend:** `Axum` `Actix Web` `Tokio`
+- **Data:** `SQLx` `PostgreSQL` `Redis`
