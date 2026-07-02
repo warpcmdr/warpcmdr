@@ -20,5 +20,16 @@ and performance-critical workloads.
 
 ## Stack
 
-- **Backend:** `Axum` `Actix Web` `Tokio`
-- **Data:** `SQLx` `PostgreSQL` `Redis`
+![Rust](https://img.shields.io/badge/Rust-2c3947?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2c3947?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-2c3947?style=for-the-badge&logo=axum&logoColor=white)
+![Tokio](https://img.shields.io/badge/Tokio-2c3947?style=for-the-badge&logo=tokio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2c3947?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-2c3947?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Solana-2c3947?style=for-the-badge&logo=solana&logoColor=white)
+
+
+
+
+
+
