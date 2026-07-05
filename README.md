@@ -15,7 +15,7 @@ and performance-critical workloads.
 ## Current Focus
 
 - Building backend services and REST APIs with the **Rust** ecosystem
-- Developing **[Pumple](https://github.com/pumple-language/pumple)**,
+- Developing **[Clave](https://github.com/clave-lang/clave)**,
   an experimental programming language exploring language design and compiler architecture
 
 ## Stack
