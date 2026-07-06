@@ -16,7 +16,3 @@ and performance-critical workloads.
 
 - Developing **[Clave](https://github.com/clave-lang/clave)**,
   an experimental programming language exploring language design and compiler architecture
-
-## Stack
-
-`C++(11-23)` `Qt` `PostgreSQL` `Redis`
