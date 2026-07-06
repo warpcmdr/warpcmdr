@@ -11,3 +11,8 @@ and developer tooling with an emphasis on clean architecture and long-term maint
 My experience includes working with the PDF specification and building document processing systems,
 including parsers and text-processing pipelines that handle complex data formats, character encoding,
 and performance-critical workloads.
+
+## Stack
+
+- `C++(11-23)` `CMake`
+- `Qt`
