@@ -14,5 +14,5 @@ and performance-critical workloads.
 
 ## Stack
 
-- `C++(11-23)` `CMake`
+- `C` `C++(11-23)` `CMake`
 - `Qt`
